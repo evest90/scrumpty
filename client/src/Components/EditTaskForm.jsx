@@ -19,7 +19,7 @@ const statusCodeMenu = [{ label: 'Not Started', value: 0 },
 
 class EditTaskForm extends React.Component {
   constructor(props) {
-    super(props);
+    super(props); 
 
     const {
       id,
