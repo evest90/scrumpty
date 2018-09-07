@@ -88,7 +88,7 @@ class Login extends React.Component {
         OR
         <br />
         <Button>
-        <a href="http://142.93.86.53/users/auth/github/">Login With GitHub</a>
+        <a href="https://serene-spire-76616.herokuapp.com/users/auth/github/callback">Login With GitHub</a>
         </Button>
       </div>
     );
